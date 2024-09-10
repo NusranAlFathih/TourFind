@@ -1,3 +1,0 @@
-streamli
-pandas
-matploplib
